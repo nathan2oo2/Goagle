@@ -1,8 +1,3 @@
-<?php
-// Start or resume the session
-session_start();
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
